@@ -1,2 +1,2 @@
-# coffee_poetry_robots
+# coffee poetry robots
 Because the robots of the future will be poets.

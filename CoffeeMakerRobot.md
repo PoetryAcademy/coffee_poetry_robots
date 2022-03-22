@@ -11,5 +11,9 @@ stay balanced so no one complains on twitter.
 
 ## Task 3: Clean Filters
 
+## Function: Make Bulk Cold Brew
+Slow and easy does the trick,
+use cold water for the brew to stick.
+
 
 
